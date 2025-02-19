@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>JC Requester</h1>
-KBMS supporting web API-based queries and commands<br/><br/>
+Experimental Tool for [JenaController](https://github.com/BonhyeonGu/JenaController)<br/><br/>
 
 <picture><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=FFFFFF" alt="..."></picture>
 
@@ -9,7 +9,7 @@ KBMS supporting web API-based queries and commands<br/><br/>
 
 ## Acknowledgment
 
-This repository is intended solely for development purposes and not for deployment. The deployment repository is managed under the authority of the DT-DL Lab at Dong-A University.
+This repository is intended solely for development purposes and not for deployment. The deployment repository is managed under the authority of the [DT-DL Lab]() at Dong-A University.
 
 <div align="center">
 
