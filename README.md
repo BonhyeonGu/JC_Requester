@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>JC Requester</h1>
-Experimental Tool for [JenaController](https://github.com/BonhyeonGu/JenaController)<br/><br/>
+Experimental Tool for <a href="https://github.com/BonhyeonGu/JenaController" target="_blank">JenaController</a><br/><br/>
 
 <picture><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=FFFFFF" alt="..."></picture>
 
